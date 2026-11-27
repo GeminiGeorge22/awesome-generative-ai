@@ -182,6 +182,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Fazm](https://fazm.ai) - A native macOS app that runs Claude Code and Codex agents with persistent sessions, and can control the browser and other Mac apps. [#opensource](https://github.com/m13v/fazm)
 - [Network-AI](https://github.com/Jovancoding/Network-AI) - A TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, token budgets, and adapters for multiple agent frameworks. #opensource
 - [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator) - YAML-first multi-agent workflow orchestrator with built-in AI roles, DAG parallelism, and conditional branching. Supports DeepSeek, Claude, OpenAI, and Ollama. #opensource
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - Hosted MCP servers for public data tools, including tech stack detection, phone number validation, Wikipedia search, Crossref DOI lookup, and DNS lookup, via [Apify MCP](https://mcp.apify.com). [#opensource](https://github.com/GeminiGeorge22/publicrecords-mcp)
 
 ### Custom assistants
 
@@ -314,5 +315,6 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Awesome AI Software Development Agents](https://github.com/flatlogic/awesome-ai-software-development-agents) - Curated list of AI agents designed for software development tasks.
 - [MODELDROP](https://modeldrop.fyi/) - A community tracker for new generative media AI model releases.
 - [MyVibe](https://www.myvibe.so) - A feed for discovering and sharing AI-created web apps, demos, and interactive projects.
+- [Comparison of AI Agent Data & MCP Tools (2026)](https://geminigeorge22.github.io/publicrecords-comparisons/ai-tools-comparison.html) - CC0 comparison of AI agent data and MCP tools, with Hugging Face and Zenodo releases.
 
 ### Lists on ChatGPT
